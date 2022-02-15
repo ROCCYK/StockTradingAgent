@@ -95,7 +95,6 @@ class Plot:
 
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     test = Environment()
     testai = Agent(test)
@@ -103,4 +102,3 @@ if __name__ == '__main__':
     plot = Plot(testai,test)
     plot.run()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
